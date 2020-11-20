@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RoomDatabaseView.iml" filepath="$PROJECT_DIR$/RoomDatabaseView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoomPersistentLibrary.iml" filepath="$PROJECT_DIR$/RoomPersistentLibrary.iml" group="RoomPersistentLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/app/RoomPersistentLibrary-app.iml" filepath="$PROJECT_DIR$/app/RoomPersistentLibrary-app.iml" group="RoomPersistentLibrary/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
